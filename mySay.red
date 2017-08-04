@@ -67,7 +67,7 @@ say: func[str[string!] /local texte fichier rate volume cmd-str][
         ] 
         copy texte some expression ]
 
-    parse str regle
+    parse trim str regle
 
     ;print rejoin [ "fichier " fichier ", rate : " rate ", volume : " volume  ", texte : " texte] 
     ;print voice
