@@ -18,7 +18,8 @@ rate (from -10 to 10) :
 say "-r 5 -vol 30 hello everybody"
 
 voice :
-say "-r -3 -v Thomas hello" (not implemented on windows)
+say "-r -3 -v Thomas hello" 
+say "-vol 30  -v <Microsoft Zira Desktop> hello everybody"
 
 text file :
 say "-r 2 -f corbeau.txt"
