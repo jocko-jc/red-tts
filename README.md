@@ -19,6 +19,8 @@ say "-r 5 -vol 30 hello everybody"
 
 voice :
 say "-r -3 -v Thomas hello" 
+
+for long voice names :
 say "-vol 30  -v <Microsoft Zira Desktop> hello everybody"
 
 text file :
