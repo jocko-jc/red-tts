@@ -2,8 +2,9 @@
 text-to-speech experimentation with red-language on Windows and macOs
 
 tts on Windows 10 and on macOs, using the red language
-
 trial of unified code for both platforms
+
+NB: for older windows versions (i.e XP and 7), use simple-say.red, (based on vbs, as powershell is not always available on these platforms) 
 
 usage:
 
