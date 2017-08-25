@@ -1,13 +1,24 @@
 # red-tts
-text-to-speech experimentation with red-language on Windows and macOs
 
-tts on Windows 10 and on macOs, using the red language.
+purpose
+==
+
+text-to-speech experimentation with red-language on Windows and macOs
 
 Trial of unified code for both platforms
 
-NB: for older windows versions (i.e XP and 7), use simple-say.red, (based on vbs, instead of powershell not always available on these platforms) 
+mySay.red
+-
 
-usage:
+tts on Windows 10 and on macOs, using the red language.
+
+simple-say.red
+-
+
+For older windows versions (i.e XP and 7), use simple-say.red, (based on vbs, instead of powershell not always available on these platforms) 
+
+usage
+==
 
 get-voices : list of available speakers on the computer
 
