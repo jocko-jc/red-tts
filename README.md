@@ -5,7 +5,7 @@ tts on Windows 10 and on macOs, using the red language.
 
 Trial of unified code for both platforms
 
-NB: for older windows versions (i.e XP and 7), use simple-say.red, (based on vbs, as powershell is not always available on these platforms) 
+NB: for older windows versions (i.e XP and 7), use simple-say.red, (based on vbs, instead of powershell not always available on these platforms) 
 
 usage:
 
